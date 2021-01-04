@@ -1,0 +1,3 @@
+SELECT * #Select all
+FROM ANIMAL_INS
+ORDER BY ANIMAL_ID ASC #오름차순 정렬
